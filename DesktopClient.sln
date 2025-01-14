@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopClient", "DesktopClient.csproj", "{89D49088-E935-4FFA-9EE4-AB1B5201FCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBB391C-0F31-4C4F-82A5-483514EF556E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBB391C-0F31-4C4F-82A5-483514EF556E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBB391C-0F31-4C4F-82A5-483514EF556E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBB391C-0F31-4C4F-82A5-483514EF556E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19145BFC-4D01-46FA-9FCB-9DE23DCD7C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19145BFC-4D01-46FA-9FCB-9DE23DCD7C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19145BFC-4D01-46FA-9FCB-9DE23DCD7C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19145BFC-4D01-46FA-9FCB-9DE23DCD7C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D49088-E935-4FFA-9EE4-AB1B5201FCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D49088-E935-4FFA-9EE4-AB1B5201FCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D49088-E935-4FFA-9EE4-AB1B5201FCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D49088-E935-4FFA-9EE4-AB1B5201FCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
